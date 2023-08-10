@@ -15,7 +15,7 @@ contentitemexportablefields:
 dockerimage: demisto/python3:3.10.12.62631
 engineinfo: {}
 mainengineinfo: {}
-name: saafr
+name: saafr-2
 pswd: ""
 runas: DBotWeakRole
 runonce: false
