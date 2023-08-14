@@ -29,7 +29,7 @@
 	"name": "aggregatedReliability",
 	"neverSetAsRequired": false,
 	"openEnded": false,
-	"orgType": "",
+	"orgType": "singleSelect",
 	"ownerOnly": false,
 	"packID": "",
 	"packName": "",
