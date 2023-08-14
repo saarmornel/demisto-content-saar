@@ -20,7 +20,7 @@ name: hello-check
 pswd: ""
 runas: DBotWeakRole
 runonce: false
-script: ""
+script: // check
 scripttarget: 0
 subtype: python3
 tags: []
